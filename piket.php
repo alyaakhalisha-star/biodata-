@@ -31,8 +31,6 @@
      <td>Habibi</td>
 </tr>
 
-
-
 <tr>
   <td>Selasa</td>
      <td>Keisha</td>
@@ -43,8 +41,6 @@
      <td>Nail</td>
      <td>Wahyu</td>
 </tr>
-
-
 
 <tr>
   <td>Rabu</td> 
@@ -83,4 +79,5 @@
 </div>
 </div>
 </body>
+
 </html>
