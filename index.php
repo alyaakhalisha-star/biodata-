@@ -50,7 +50,6 @@ BIODATA SI GEMAS
 <img src="foto.jpg">
 </div>
 
-
 <div class="data">
   <p><i class="fas fa-envelope"></i> Email : <?php echo $email; ?></p>
   <p><i class="fas fa-user"></i> Nama : <?php echo $namaLengkap; ?></p>
@@ -155,4 +154,5 @@ BIODATA SI GEMAS
 </div>
 
 </body>
+
 </html>
