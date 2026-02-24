@@ -20,7 +20,6 @@
  <th>Jumat</th>
 </tr>
 
-
 <?php
 
 $senin = ["MTK","MTK","SJR","PABP","PABP","PABP","BNG","BNG","BIN","BIN"];
@@ -28,7 +27,6 @@ $selasa = ["IPAS","IPAS","IPAS","IPAS","PPS","PPS","BJW","BJW","SNM","SNM"];
 $rabu = ["PGD","PGD","PGD","PGD","PGD","PGD","GIM","GIM","GIM","GIM"];
 $kamis = ["POR","POR","POR","SJR","BNG","BNG","MTK","MTK","BIN","BIN"];
 $jumat = ["INF","INF","KKA","KKA","IPAS","IPAS","PGD","PGD","-","-"];
-
 
 for($i=0;$i<10;$i++){
 
@@ -50,4 +48,5 @@ echo "</tr>";}
 
 </div>
 </body>
+
 </html>
